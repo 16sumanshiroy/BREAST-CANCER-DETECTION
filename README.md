@@ -68,6 +68,9 @@ This project aims to build a **machine learning-based predictive model** to dete
 - Integration with **Streamlit or FastAPI** for a simple web-based user interface.
 - Model can be further improved using **cloud deployment** for scalability.
 
+<img width="960" alt="Screenshot 2023-12-07 154140" src="https://github.com/user-attachments/assets/7674e0e4-9b6f-4b7e-92b3-b0a8ba34827c" />
+
+
 ## **Future Improvements**
 - Implement **deep learning (CNNs or AutoML)** for enhanced accuracy.
 - Introduce **Explainable AI (XAI) techniques** to improve model transparency.
